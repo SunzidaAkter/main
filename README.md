@@ -1,4 +1,4 @@
-#Employee Management System
+# Employee Management System
 
 The Employee Management System is a MySQL database project used to manage employee information in an organization. This project helps store and organize employee data in a simple and structured way. It includes different sections to manage departments, employee details, attendance, leave requests, salary information, training, and performance. The project also shows how database tables are connected using SQL.
 
